@@ -1,6 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <a href="https://twitter.com/piercenovoa">
-  <img align="left" alt="Pierce Novoa | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Pierce Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/pierce-novoa/">
   <img align="left" alt="Pierce's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -8,6 +9,7 @@
 <a href="https://open.spotify.com/user/s2jq4dk2wzz2afmvpudel5dba?si=UVdCxZ__TgajpUtt1Wtvew">
   <img align="left" alt="Pierce's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+
 
 
 <br />
