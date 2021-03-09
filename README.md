@@ -5,8 +5,10 @@
 <a href="https://www.linkedin.com/in/pierce-novoa/">
   <img align="left" alt="Pierce's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://open.spotify.com/user/s2jq4dk2wzz2afmvpudel5dba?si=UVdCxZ__TgajpUtt1Wtvew">
+  <img align="left" alt="Pierce's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
 
