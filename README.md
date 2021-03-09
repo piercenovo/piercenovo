@@ -10,7 +10,7 @@
 
 <br />
 
-Hola, soy Pierce Novoa, un apasionado junior developer autodidacta y estudiante de ingeniera de software de Perú. Mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes. Me preocupo mucho por la experiencia de usuario, la arquitectura y la calidad del código de las cosas que construyo.
+Hola, soy Pierce Novoa, un apasionado junior developer autodidacta y estudiante de ingeniera de software en Perú. Mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes. Me preocupo mucho por la experiencia de usuario, la arquitectura y la calidad del código de las cosas que construyo.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
