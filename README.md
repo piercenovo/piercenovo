@@ -36,8 +36,10 @@ webpack      7 mins          ███▒░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 🚧 **My Notion Stats:**
-<!-- TODO-IST:START -->
-🌸 Completaste 1 tarea hoy
-✅ Completado 17 tareas hasta ahora
-⏳  Quedan por renderizar 3 componentes haha 
-<!-- TODO-IST:END -->
+<!-- NOTION:START -->
+🌸  Completaste 1 tarea hoy
+✅  Completado 17 tareas hasta ahora
+⏳   Quedan por renderizar 3 componentes haha 
+<!-- NOTION:END -->
+
+Bye, bye.. 🚀✨
