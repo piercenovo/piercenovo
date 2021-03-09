@@ -37,9 +37,10 @@ webpack      7 mins          ███▒░░░░░░░░░░░░░
 
 🚧 **My Notion Stats:**
 <!-- NOTION:START -->
+🏆  521 Points  
 🌸  Completaste 1 tarea hoy
 ✅  Completado 17 tareas hasta ahora
-⏳   Quedan por renderizar 3 componentes haha 
+⏳  Quedan por renderizar 3 componentes haha 
 <!-- NOTION:END -->
 
 Bye, bye.. 🚀✨
