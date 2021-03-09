@@ -18,7 +18,9 @@ Hola, soy Pierce Novoa, un apasionado junior developer autodidacta y estudiante 
 
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="350" />
+  
+  <br />
   
 - 💬 Pregúntame sobre cualquier cosa, estar feliz de dar un granito de arena;
 - 📫 Cómo llegar a mí: [@piercenovoa](https://twitter.com/piercenovoa);
