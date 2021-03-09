@@ -10,13 +10,12 @@
   <img align="left" alt="Pierce's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-
+<br />
 
 <br />
 
 Hola, soy Pierce Novoa, un apasionado junior developer autodidacta y estudiante de ingeniera de software en Perú. Mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes. Me preocupo mucho por la experiencia de usuario, la arquitectura y la calidad del código de las cosas que construyo.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
