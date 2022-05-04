@@ -19,7 +19,7 @@ Hola, soy Pierce Novoa, un apasionado junior developer autodidacta y estudiante 
   
   <br />
   
-- 💬 Pregúntame sobre cualquier cosa, estar feliz de dar un granito de arena;
+- 💬 Pregúntame sobre cualquier cosa, feliz de dar un granito de arena;
 - 📫 Cómo llegar a mí: [@piercenovoa](https://twitter.com/piercenovoa);
 
 **Languages and Tools:**  
