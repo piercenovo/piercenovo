@@ -11,7 +11,7 @@
 
 <br />
 
-Hola, soy Pierce Novoa, un apasionado junior developer autodidacta y estudiante de Ingeniera de Sistemas en Perú. Mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes. Me preocupo mucho por la experiencia de usuario, la arquitectura y la calidad del código de las cosas que construyo.
+Hello, my name is Pierce Novoa, I'm a self taught junior developer living in Peru. My passion for software lies in dreaming up ideas and bringing them to life with elegant interfaces. I focus on the user experience, architecture and code quality.
 
 
 
@@ -19,8 +19,8 @@ Hola, soy Pierce Novoa, un apasionado junior developer autodidacta y estudiante 
   
   <br />
   
-- 💬 Pregúntame sobre cualquier cosa, feliz de dar un granito de arena;
-- 📫 Cómo llegar a mí: [@piercenovoa](https://twitter.com/piercenovoa);
+- 💬 Ask me about anything, happy to give a little bit;
+- 📫 How to get to me: [@piercenovo_dev](https://twitter.com/piercenovo_dev);
 
 **Languages and Tools:**  
 
@@ -29,12 +29,12 @@ Hola, soy Pierce Novoa, un apasionado junior developer autodidacta y estudiante 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
-📊 **Esta semana pasé mi tiempo en:**
+📊 **This week I spent my time in:**
 <!--START_SECTION:waka-->
 ```text
-React        31 hrs         ██████████████░░░░░░░░░░░   55.44 % 
-Node         17 hrs         ████████░░░░░░░░░░░░░░░░░   31.57 % 
-Flutter      7  hrs         ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Next.js       31 hrs         ██████████████░░░░░░░░░░░   55.44 % 
+Flutter         17 hrs         ████████░░░░░░░░░░░░░░░░░   31.57 % 
+Figma      7  hrs         ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 % 
 ```
 <!--END_SECTION:waka-->
 
