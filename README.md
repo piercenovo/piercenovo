@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/piercenovo_dev">
+<a href="https://twitter.com/piercenovodev">
   <img align="left" alt="Pierce Novoa | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/piercenovoa">
@@ -20,7 +20,7 @@ Hello, my name is Pierce Novoa, I'm a self taught junior developer living in Per
   <br />
   
 - 💬 Ask me about anything, happy to give a little bit;
-- 📫 How to get to me: [@piercenovo_dev](https://twitter.com/piercenovo_dev);
+- 📫 How to get to me: [@piercenovodev](https://twitter.com/piercenovodev);
 
 **Languages and Tools:**  
 
@@ -36,9 +36,9 @@ Hello, my name is Pierce Novoa, I'm a self taught junior developer living in Per
 📊 **This week I spent my time in:**
 <!--START_SECTION:waka-->
 ```text
-Next.js       31 hrs         ██████████████░░░░░░░░░░░   55.44 % 
-Flutter       17 hrs         ████████░░░░░░░░░░░░░░░░░   31.57 % 
-Figma         7  hrs         ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Next.js      31 hrs      ██████████████░░░░░░░░░░░   55.44 % 
+Flutter      17 hrs      ████████░░░░░░░░░░░░░░░░░   31.57 % 
+Figma        7  hrs      ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 % 
 ```
 <!--END_SECTION:waka-->
 
