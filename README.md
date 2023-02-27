@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Pierce Novoa</h1>
 <h3 align="center">A passionate software developer from Peru</h3>
 
-- 🌱 I’m currently learning [**Nextjs**](https://nextjs.org/), [**GraphQL**](https://graphql.org/) and [**Nestjs**](https://nestjs.com/)
+- 🌱 I’m currently learning **Nextjs, GraphQL and NestJS**
 
 - 👨‍💻 All of my projects are available at [**my projects**](https://www.piercenovo.dev)
 
